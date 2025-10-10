@@ -72,3 +72,35 @@ def division(a,b):
 division(1,2)
 
 # Task 11
+def listIndex(list, index):
+    try:
+         print(list[index])
+    except IndexError:
+        print("Index is out of border")
+listIndex([1,2,3,4],4)
+
+# Task 12
+def doubleInput():
+    try:
+        userNum = int(input("Write ur number "))
+        print(userNum * userNum)
+    except ValueError:
+        print("You should Write number")
+        doubleInput()
+
+doubleInput()
+
+# Task 13  - not working 
+def hello():
+    with open("hello.txt" "w") as file:
+        file.write("Hello World")
+        print("Successfully wrote 'Hello, World!' to hello.txt")
+
+# Task 14 
+def readHello():
+    with open("hello.txt" "r") as file2:
+        content = file2.read()
+        print(content)
+
+# Task 15 
+
