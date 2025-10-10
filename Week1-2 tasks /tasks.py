@@ -11,3 +11,64 @@ length = 10.5
 length2 = int(length)
 print(length2)
 
+#Task 3 
+x, y, z = 5, 10.5, "Hello"
+print(f"x: {x}")
+print(f"y: {y}")
+print(f"z: {z}")
+
+#Task 4
+def greet(name):
+    print(f"Hello {name}")
+
+greet("Nodo")
+
+#Task 5 
+def is_even(num):
+    if (num % 2 == 0):
+        return True
+    else:
+        return False
+
+print(is_even(4))
+print(is_even(7))
+
+# Task 6 
+fruits = ["apple", "banana", "orange"]
+fruit_colors = {"apple": "red", "banana": "yellow", "orange": "orange"}
+
+for fruit in fruits:
+    print(f"{fruit}  {fruit_colors[fruit]}")
+
+# Task 7
+list1 = [ a ** 2 for a in range(1,10)]
+print(list1)
+
+# Task 8 
+for i in range(1, 20):
+    if(i % 3 == 0):
+        print(i)
+
+# Task 9 
+def fizz_buzz(n):
+    for i in range(1,n):
+        if(i % 3 == 0 and i % 5 == 0):
+            print("FizzBuzz")
+        elif (i % 3 == 0):
+            print("Fizz")
+        elif(i % 5 == 0):
+            print("Buzz")
+        else:
+            print(i)
+fizz_buzz(20)
+
+# Task 10 
+def division(a,b):
+    try:
+        result = a / b 
+    except ZeroDivisionError:
+        print("Zero division isn't possible")
+
+division(1,2)
+
+# Task 11
