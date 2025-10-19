@@ -44,10 +44,6 @@ employees = {
 }
 
 
-# Fundamentals of Data Science
-# Project 1: Business Data Analysis
-# TODO: Add data for 2 more employees (E007 and E008)
-# Make up realistic names and numbers
 print (f"Total employees: {len (employees)}")
 
 
