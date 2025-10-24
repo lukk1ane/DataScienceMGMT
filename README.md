@@ -1,2 +1,21 @@
 # DataScienceMGMT
-Name your python files appropriate week number, create your own branch with your name and surname and upload your solutions there
+Daviti Jinjikhadze
+
+# it's plaaying, it do not bite
+                 /^\/^\
+               _|__|  O|
+      \/     /~     \_/ \
+       \____|__________/  \
+              \_______      \
+                      `\     \                 \
+                        |     |                  \
+                       /      /                    \
+                      /     /                       \
+                    /      /                         \ \
+                   /     /                            \  \
+                 /     /             _----_            \   \
+                /     /           _-~      ~-_         |   |
+               (      (        _-~    _--_    ~-_     _/   |
+                \      ~-____-~    _-~    ~-_    ~-_-~    /
+                  ~-_           _-~          ~-_       _-~
+                     ~--______-~                ~-___-~
