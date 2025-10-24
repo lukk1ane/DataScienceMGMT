@@ -1,7 +1,7 @@
 # DataScienceMGMT
 Daviti Jinjikhadze
 
-# it's plaaying, it do not bite
+# it's plaaying, it does not bite
                  /^\/^\
                _|__|  O|
       \/     /~     \_/ \
